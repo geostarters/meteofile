@@ -7,7 +7,7 @@
             "gribEdition":2,
             "gribLength":51317,
             "center":7,
-            "centerName":"US National Weather Service - NCEP(WMC)",
+            "centerName":"Meteocat",
             "subcenter":0,
             "refTime":"2021-06-22T00:00:00.000Z",
             "significanceOfRT":1,
